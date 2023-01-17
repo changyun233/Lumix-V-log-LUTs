@@ -30,6 +30,19 @@ Please use 'feature request' ,and remember post author and original link.
 3. [E-MAIL ME](chang_yun@outlook.com)  
 Just tell me the author and original link. You are welcomed to ask author for permission post here.
 
+## Contributor
+
+#### [波子Booz](https://www.youtube.com/@BoZiBooz)
+
+#### [changyun尝云](https://space.bilibili.com/439277872)
+
+#### [Hamburger翰博](https://space.bilibili.com/21883676)
+
+#### [Lucas Hu](https://www.youtube.com/@LucasHJX)
+
+#### [varicam Official](https://na.panasonic.com/us/cinema-cameras/varicam-lut-library)
+
+
 ## Table of LUTs preview
 
 
@@ -45,6 +58,53 @@ Just tell me the author and original link. You are welcomed to ask author for pe
     </tr>
 </table>
 </details>
+
+
+
+
+<details>
+  <summary>changyun_fujilike</summary>
+  <table border="1">
+    <tr>
+        <td>Rec709</td><td>fujiP400</td>
+    </tr>
+    <tr>
+		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
+        <td><img src="./img/changyun_fujilike/vlog_fujiP400.jpg" style="width:100%;height:auto"> </td>
+    </tr>
+</table>
+</details>
+
+<details>
+  <summary>changyun_kodaklike</summary>
+  <table border="1">
+    <tr>
+        <td>Rec709</td><td>kodaE100VS</td><td>kodaE200</td><td>kodaEC64</td><td>kodaEI502</td><td>kodaEK25</td><td>kodaG100</td><td>kodaG200</td><td>kodaM800</td><td>kodaP100T</td><td>kodaP160</td><td>kodaP400</td><td>kodaP800</td><td>kodaRG400</td><td>kodaUM400</td><td>kodaUM800</td>
+    </tr>
+    <tr>
+		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaE100VS.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaE200.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaEC64.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaEI502.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaEK25.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaG100.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaG200.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaM800.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP100T.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP160.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP400.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP800.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaRG400.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaUM400.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaUM800.jpg" style="width:100%;height:auto"> </td>
+    </tr>
+</table>
+</details>
+
+
+
+
 
 <details>
   <summary>hamburger_filmlike</summary>

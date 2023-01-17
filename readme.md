@@ -20,13 +20,23 @@
 1. Pull Request  
    你需要一个 github 账号(gitee 用户请见谅，此站只用做国内分发，维护内容请访问 github 同名仓库或参考第 2/3 种方式)，将本仓库 fork 到你的仓库下后，向仓库中添加内容，之后回到本仓库发起 Pull request。具体操作可参考 github 官方 Pull Request [链接](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
-2. 提出  
+2. 提出 ISSUE 
    在 ISSUE 区中新建问题，请记得在问题分类中选择 feature request，并在问题描述中附上原作者的分享链接。如果你就是 LUT 作者，也欢迎直接将文件发布到 ISSUE 区中。
 
 3. 给我发[邮件](chang_yun@outlook.com)  
    我会随时查看邮件内容，请在邮件中说明原作者分享链接，并加以简单介绍。如果你就是 LUT 作者并且乐意与大家分享你的 LUT，也欢迎直接发送 LUT 文件，我会在仓库中申明您的贡献。
 
 ## 贡献者
+
+#### [波子Booz](https://space.bilibili.com/7601439)
+
+#### [changyun尝云](https://space.bilibili.com/439277872)
+
+#### [Hamburger翰博](https://space.bilibili.com/21883676)
+
+#### [莽大粗](https://space.bilibili.com/319880037)
+
+#### [varicam官方](https://pro-av.panasonic.net/cn/cinema_camera_varicam_eva/support/lut/)
 
 ## LUT 效果预览
 
@@ -42,6 +52,53 @@
     </tr>
 </table>
 </details>
+
+
+
+
+<details>
+  <summary>changyun_fujilike</summary>
+  <table border="1">
+    <tr>
+        <td>Rec709</td><td>fujiP400</td>
+    </tr>
+    <tr>
+		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
+        <td><img src="./img/changyun_fujilike/vlog_fujiP400.jpg" style="width:100%;height:auto"> </td>
+    </tr>
+</table>
+</details>
+
+<details>
+  <summary>changyun_kodaklike</summary>
+  <table border="1">
+    <tr>
+        <td>Rec709</td><td>kodaE100VS</td><td>kodaE200</td><td>kodaEC64</td><td>kodaEI502</td><td>kodaEK25</td><td>kodaG100</td><td>kodaG200</td><td>kodaM800</td><td>kodaP100T</td><td>kodaP160</td><td>kodaP400</td><td>kodaP800</td><td>kodaRG400</td><td>kodaUM400</td><td>kodaUM800</td>
+    </tr>
+    <tr>
+		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaE100VS.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaE200.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaEC64.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaEI502.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaEK25.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaG100.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaG200.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaM800.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP100T.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP160.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP400.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaP800.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaRG400.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaUM400.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_kodaklike/vlog_kodaUM800.jpg" style="width:100%;height:auto"> </td>
+    </tr>
+</table>
+</details>
+
+
+
+
 
 <details>
   <summary>hamburger_filmlike</summary>
