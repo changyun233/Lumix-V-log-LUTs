@@ -20,15 +20,13 @@
 1. Pull Request  
    你需要一个 github 账号(gitee 用户请见谅，此站只用做国内分发，维护内容请访问 github 同名仓库或参考第 2/3 种方式)，将本仓库 fork 到你的仓库下后，向仓库中添加内容，之后回到本仓库发起 Pull request。具体操作可参考 github 官方 Pull Request [链接](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
-2. 提出   
+2. 提出  
    在 ISSUE 区中新建问题，请记得在问题分类中选择 feature request，并在问题描述中附上原作者的分享链接。如果你就是 LUT 作者，也欢迎直接将文件发布到 ISSUE 区中。
 
 3. 给我发[邮件](chang_yun@outlook.com)  
    我会随时查看邮件内容，请在邮件中说明原作者分享链接，并加以简单介绍。如果你就是 LUT 作者并且乐意与大家分享你的 LUT，也欢迎直接发送 LUT 文件，我会在仓库中申明您的贡献。
 
 ## 贡献者
-
-
 
 ## LUT 表格(建设中)
 
@@ -37,26 +35,14 @@
 - 下载链接(建设中)
 
 <details>
-  <summary> varicam_official | <a href="https://pro-av.panasonic.net/cn/cinema_camera_varicam_eva/support/lut/" target="_blank">官方lut library</a> </summary>
-  <p> 
+  <summary>booz_kodak5219</summary>
   <table border="1">
-<tr>
-<td>名称</td>
-<td>人像预览</td>
-<td>室内预览</td>
-<td>室外预览</td>
-</tr>
-<tr>
-<td>VLOG图像</td>
-<td><img src="./sample_image/profile1_vlog.jpg"></td>
-<td><img src="./sample_image/indoor_vlog.jpg"></td>
-<td><img src="./sample_image/outdoor_vlog.jpg"></td>
-</tr>
-<td>vlogto709</td>
-<td><img src="./sample_image/profile1_vlog.jpg"></td>
-<td><img src="./sample_image/indoor_vlog.jpg"></td>
-<td><img src="./sample_image/outdoor_vlog.jpg"></td>
-</tr>
+    <tr>
+        <td>Rec709</td><td>kodak5219</td>
+    </tr>
+    <tr>
+		<td><img src="./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " weight="420px" height="1540px"></td>
+        <td><img src="./img/booz_kodak5219/vlog_koda5219.jpg " weight="420px" height="1540px"> </td>
+    </tr>
 </table>
-  </p>
 </details>
