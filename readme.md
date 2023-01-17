@@ -28,11 +28,7 @@
 
 ## 贡献者
 
-## LUT 表格(建设中)
-
-- 效果预览 (建设中)
-- LUT 作者 (建设中)
-- 下载链接(建设中)
+## LUT 效果预览
 
 <details>
   <summary>booz_kodak5219</summary>
