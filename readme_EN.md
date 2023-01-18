@@ -48,9 +48,10 @@ Just tell me the author and original link. You are welcomed to ask author for pe
 
 <details>
   <summary>booz_kodak5219</summary>
+
   <table border="1">
     <tr>
-        <td>Rec709</td><td>kodak5219</td>
+        <td>Rec709</td><td><a href="https://www.bilibili.com/video/BV1Ss4y147D5/" target="_blank">kodak5219</a></td>
     </tr>
     <tr>
 		<td><img src="./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
@@ -88,8 +89,6 @@ Just tell me the author and original link. You are welcomed to ask author for pe
 </table>
 </details>
 
-
-
 <details>
   <summary>changyun_leica_like</summary>
   <table border="1">
@@ -113,7 +112,7 @@ Just tell me the author and original link. You are welcomed to ask author for pe
   <summary>hamburger_filmlike</summary>
   <table border="1">
     <tr>
-        <td>Rec709</td><td>kodak5219</td><td>Orange&Cyan</td>
+        <td>Rec709</td><td><a href="https://www.bilibili.com/video/BV1jS4y1U7tk/" target="_blank">kodak5219</a></td><td><a href="https://www.bilibili.com/video/BV1144y1V7Cn/" target="_blank">Orange&Cyan</a></td>
     </tr>
     <tr>
 		<td><img src="./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
@@ -124,7 +123,7 @@ Just tell me the author and original link. You are welcomed to ask author for pe
 </details>
 
 <details>
-  <summary>lucashu_filmlike</summary>
+  <summary><a href="https://www.bilibili.com/video/BV1n54y147fs/" target="_blank">lucashu_filmlike</a></summary>
   <table border="1">
     <tr>
         <td>Rec709</td><td>cu_film1</td><td>cu_film2</td><td>cu_film3</td><td>cu_film4</td><td>cu_film5</td>
@@ -169,6 +168,8 @@ Just tell me the author and original link. You are welcomed to ask author for pe
     </tr>
 </table>
 </details>
+
+
 
 <details>
   <summary>varicam_official</summary>
