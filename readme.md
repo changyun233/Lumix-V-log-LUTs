@@ -30,7 +30,7 @@
 1. Pull Request  
    你需要一个 github 账号(gitee 用户请见谅，此站只用做国内分发，维护内容请访问 github 同名仓库或参考第 2/3 种方式)，将本仓库 fork 到你的仓库下后，向仓库中添加内容，之后回到本仓库发起 Pull request。具体操作可参考 github 官方 Pull Request [链接](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
-2. 提出 ISSUE 
+2. 提出 ISSUE  
    在 ISSUE 区中新建问题，请记得在问题分类中选择 feature request，并在问题描述中附上原作者的分享链接。如果你就是 LUT 作者，也欢迎直接将文件发布到 ISSUE 区中。
 
 3. 给我发[邮件](chang_yun@outlook.com)  
