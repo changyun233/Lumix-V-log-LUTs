@@ -61,20 +61,6 @@ Just tell me the author and original link. You are welcomed to ask author for pe
 
 
 
-
-<details>
-  <summary>changyun_fujilike</summary>
-  <table border="1">
-    <tr>
-        <td>Rec709</td><td>fujiP400</td>
-    </tr>
-    <tr>
-		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
-        <td><img src="./img/changyun_fujilike/vlog_fujiP400.jpg" style="width:100%;height:auto"> </td>
-    </tr>
-</table>
-</details>
-
 <details>
   <summary>changyun_kodaklike</summary>
   <table border="1">
@@ -104,17 +90,35 @@ Just tell me the author and original link. You are welcomed to ask author for pe
 
 
 
+<details>
+  <summary>changyun_leica_like</summary>
+  <table border="1">
+    <tr>
+        <td>Rec709</td><td>cold</td><td>std1</td><td>std2</td><td>std3</td><td>warm</td>
+    </tr>
+    <tr>
+		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
+		<td><img src="./img/changyun_leica_like/vlog_cold.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_std1.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_std2.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_std3.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_warm.jpg" style="width:100%;height:auto"> </td>
+    </tr>
+</table>
+</details>
+
 
 
 <details>
   <summary>hamburger_filmlike</summary>
   <table border="1">
     <tr>
-        <td>Rec709</td><td>FUJI_LUT</td>
+        <td>Rec709</td><td>kodak5219</td><td>Orange&Cyan</td>
     </tr>
     <tr>
 		<td><img src="./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
-        <td><img src="./img/hamburger_filmlike/vlog_FUJI_LUT.jpg " style="width:100%;height:auto"> </td>
+        <td><img src="./img/hamburger_filmlike/vlog_kodak5219.jpg " style="width:100%;height:auto"> </td>
+        <td><img src="./img/hamburger_filmlike/vlog_O_Clut.jpg " style="width:100%;height:auto"> </td>
     </tr>
 </table>
 </details>

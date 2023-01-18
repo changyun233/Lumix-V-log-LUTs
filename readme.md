@@ -6,12 +6,22 @@
     <a href="https://github.com/changyun233/Lumix-V-log-LUTs/blob/main/readme_JA.md">日本語</a> 
 </h4>
 
-受到富士胶片模拟和松下 S5 Mark II 的机内 LUT 烧录功能的启发，本仓库收集了用于松下 VLOG 一步到位风格化调色的 LUT。这些 LUT 通常是由热心的视频制作者为各位调色苦手制作的。
+受到富士胶片模拟和松下 S5 Mark II 的机内 LUT 烧录功能的启发，本仓库收集了用于松下 VLOG 一步到位风格化调色的 LUT。这些 LUT 通常是由热心的视频制作者为各位调色苦手制作的。  
 理论上来说，这些 LUT 适用于所有胶片相应的 LOG gamut，例如索尼 SLOG3，富士 FLOG2，佳能 CLOG2 和阿莱 LOGC.但实际上，这些 LUT 主要针对松下 VLOG 进行测试，因此实际使用中，可能需要配合达芬奇的色彩空间转换实现最佳的匹配效果。
 
-### LUT 获取
+### 版权声明
 
-本仓库收集的是各位博主制作的，公布在其个人主页的 LUT，如果可能请访问原作者的链接下载，这也是对原作者的支持。如果你是 LUT 原作者并对此仓库公示的 LUT 感到不快，请通过[邮件](chang_yun@outlook.com)联系我，我会尊重您的著作权。
+本仓库收集的是各位博主制作的，公布在其个人主页的 LUT，如果可能请访问原作者的链接下载，这也是对原作者的支持。如果你是 LUT 原作者并对此仓库公示的 LUT 感到不快，请通过[邮件](chang_yun@outlook.com)联系我，我会尊重您的权利。
+
+### 如何下载
+
+1. 在下方的LUT预览列表中，您会看到指向原作者发布地址的链接（如果有），请前往原作者发布链接获取LUT，这是对原作者的一种支持。  
+2. 对于未知作者，或制作者未发布在其他网页的LUT，您可以选择本页右上角的“克隆/下载”，并以zip的形式获取所有已保存的LUT和预览图。如果您想将这些LUT分享出去，您应该分享本页面链接而不是发送文件。
+3. 您可以在下方LUT预览列表中看到所有LUT的预览图，在Gitee移动端中，很可能出现图片无法加载的情况。建议使用桌面端访问网页，或在保存到本地的文件夹中根据图片预览选择。
+
+# 使用LUT直出功能意味着你需要严格注意白平衡！使用LUT直出功能意味着你需要严格注意白平衡！使用LUT直出功能意味着你需要严格注意白平衡！
+
+重要的事情说三遍
 
 ### 贡献 LUT
 
@@ -42,6 +52,7 @@
 
 <details>
   <summary>booz_kodak5219</summary>
+
   <table border="1">
     <tr>
         <td>Rec709</td><td>kodak5219</td>
@@ -54,20 +65,6 @@
 </details>
 
 
-
-
-<details>
-  <summary>changyun_fujilike</summary>
-  <table border="1">
-    <tr>
-        <td>Rec709</td><td>fujiP400</td>
-    </tr>
-    <tr>
-		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
-        <td><img src="./img/changyun_fujilike/vlog_fujiP400.jpg" style="width:100%;height:auto"> </td>
-    </tr>
-</table>
-</details>
 
 <details>
   <summary>changyun_kodaklike</summary>
@@ -96,7 +93,22 @@
 </table>
 </details>
 
-
+<details>
+  <summary>changyun_leica_like</summary>
+  <table border="1">
+    <tr>
+        <td>Rec709</td><td>cold</td><td>std1</td><td>std2</td><td>std3</td><td>warm</td>
+    </tr>
+    <tr>
+		<td><img src= "./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
+		<td><img src="./img/changyun_leica_like/vlog_cold.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_std1.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_std2.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_std3.jpg" style="width:100%;height:auto"> </td>
+		<td><img src="./img/changyun_leica_like/vlog_warm.jpg" style="width:100%;height:auto"> </td>
+    </tr>
+</table>
+</details>
 
 
 
@@ -104,11 +116,12 @@
   <summary>hamburger_filmlike</summary>
   <table border="1">
     <tr>
-        <td>Rec709</td><td>FUJI_LUT</td>
+        <td>Rec709</td><td>kodak5219</td><td>Orange&Cyan</td>
     </tr>
     <tr>
 		<td><img src="./img/varicam_official_vlogto709/vlog_VLog_to_V709_forV35_ver100.jpg " style="width:100%;height:auto"></td>
-        <td><img src="./img/hamburger_filmlike/vlog_FUJI_LUT.jpg " style="width:100%;height:auto"> </td>
+        <td><img src="./img/hamburger_filmlike/vlog_kodak5219.jpg " style="width:100%;height:auto"> </td>
+        <td><img src="./img/hamburger_filmlike/vlog_O_Clut.jpg " style="width:100%;height:auto"> </td>
     </tr>
 </table>
 </details>
