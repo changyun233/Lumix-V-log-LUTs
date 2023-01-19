@@ -50,6 +50,7 @@
 
 #### [varicam官方](https://pro-av.panasonic.net/cn/cinema_camera_varicam_eva/support/lut/)
 
+
 ## LUT 效果预览
 
 <details>
@@ -250,7 +251,10 @@
 </table>
 </details>
 
+## 太多了好难选？
 
-#### 或许给我赞助一杯奶茶？
+已经帮你选好了，我自己用的几个LUT放在了recommend文件夹下，下载后直接导入相机就好啦
+
+## 或许给我赞助一杯奶茶？
 
 ![我的收款码](./img/give_me_money.jpg "我的收款码")
